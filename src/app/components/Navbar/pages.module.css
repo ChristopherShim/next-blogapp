@@ -1,0 +1,14 @@
+.navbar {
+    background: transparent;
+    display:flex;
+    column-gap: 1rem;
+    justify-content: space-between;
+    padding-top:1.5rem;
+    padding-bottom:1.5rem;
+}
+
+.navbarRight{
+    display:flex;
+    justify-content:space-evenly;
+    column-gap: 1rem;
+}
