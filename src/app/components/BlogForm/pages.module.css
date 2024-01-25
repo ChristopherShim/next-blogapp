@@ -1,0 +1,39 @@
+.form{
+    width: 100%;
+    display:flex;
+    flex-direction: column;
+    gap:1rem;
+}
+
+.textarea{
+    resize:none;
+    height:60vh;
+    background-color:white;
+    border: black 1px solid;
+    border-radius: .15rem;
+    color:black;
+}
+
+.title {
+    width: 20rem;
+    border: black 1px solid;
+    background-color:White;
+    border-radius: .15rem;
+    color:black;
+}
+
+.author {
+    width: 20rem;
+    border: black 1px solid;
+    background-color:White;
+    border-radius: .15rem;
+    color:black
+}
+
+.save{
+    width: 10rem;
+    color:black;
+    background-color: gray;
+    border-radius: .15rem;
+    height:2rem;
+}
